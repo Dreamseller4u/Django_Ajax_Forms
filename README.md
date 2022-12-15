@@ -8,7 +8,7 @@
 # Как установить проект 
 ### Клонировать репозиторий и перейти в него в командной строке:
 ```
-git clone 
+git clone https://github.com/Dreamseller4u/Django_Ajax_Forms.git
 cd django-forms/
 ```
 ### Создать и активировать виртуальное окружение:
@@ -31,7 +31,7 @@ python manage.py runserver
 ```
 ### Ссылка на деплой проекта:
 ```
-ссылка
+dreamseller.pythonanywhere.com
 ```
 ## Стек технологий: Python 3, Django 3.2,JS, jQuery
 ## Автор проекта - Кочевых Никита
