@@ -1,0 +1,11 @@
+body{
+    padding: 50px;
+}
+.input-group{
+    margin-top: 10px;
+    width: 400px;
+}
+#info{
+    display: flex;
+    flex-direction: column;
+}
